@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Personal portfolio showcasing my projects, skills, and experience as a Fullstack Developer."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
