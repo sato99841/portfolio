@@ -5,3 +5,4 @@ description = "Personal portfolio showcasing my projects, skills, and experience
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
